@@ -18,6 +18,7 @@ This project demonstrates the integration of Graph Databases (Neo4j) with LangCh
 • Movie dataset with relationships between movies, actors, directors, and genres
 
 **Core Dependencies**
+
 • langchain_community
 • langchain_grok
 • neo4j
@@ -32,6 +33,7 @@ This project demonstrates the integration of Graph Databases (Neo4j) with LangCh
 
 
 # Example Queries
+
 • Find movie directors
 • List actors in specific movies
 • Count movies by actor
